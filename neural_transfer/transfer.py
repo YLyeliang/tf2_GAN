@@ -7,5 +7,3 @@ import torch.nn.functional as F
 a=tf.keras.losses.BinaryCrossentropy()
 tf.random.uniform()
 tf.summary.scalar()
-a=1
-c=1
