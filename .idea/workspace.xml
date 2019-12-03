@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cc44028-52c8-444d-a953-70fd2e2425df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neural_transfer/transfer.py" beforeDir="false" afterPath="$PROJECT_DIR$/neural_transfer/transfer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pix2pix/image2image.py" beforeDir="false" afterPath="$PROJECT_DIR$/pix2pix/image2image.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,9 +30,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.test">
     <configuration name="image2image" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tf2_GAN" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,8 +56,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tf2_GAN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.image2image" />
       </list>
     </recent_temporary>
@@ -84,53 +108,73 @@
       <option name="presentableId" value="Default" />
       <updated>1575291029371</updated>
       <workItem from="1575291033506" duration="2613000" />
+      <workItem from="1575293659818" duration="30000" />
+      <workItem from="1575334119037" duration="10170000" />
+      <workItem from="1575357487023" duration="500000" />
+      <workItem from="1575358024314" duration="258000" />
     </task>
+    <task id="LOCAL-00001" summary="update pix2pix">
+      <created>1575293674193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575293674193</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update pix2pix" />
+    <option name="LAST_COMMIT_MESSAGE" value="update pix2pix" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="5" key="CommitChangelistDialog2" timestamp="1575291078403">
+    <state x="372" y="5" key="CommitChangelistDialog2" timestamp="1575293672190">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1575291078403" />
-    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1575293647964">
+    <state x="372" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1575293672190" />
+    <state width="1493" height="175" key="GridCell.Tab.0.bottom" timestamp="1575356233195">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575293647964" />
-    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1575293647964">
+    <state width="1493" height="175" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575356233195" />
+    <state width="1493" height="175" key="GridCell.Tab.0.center" timestamp="1575356233194">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575293647964" />
-    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1575293647964">
+    <state width="1493" height="175" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575356233194" />
+    <state width="1493" height="175" key="GridCell.Tab.0.left" timestamp="1575356233193">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575293647964" />
-    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1575293647964">
+    <state width="1493" height="175" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575356233193" />
+    <state width="1493" height="175" key="GridCell.Tab.0.right" timestamp="1575356233194">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575293647964" />
-    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1575293647961">
+    <state width="1493" height="175" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575356233194" />
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1575339087302">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575293647961" />
-    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1575293647961">
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575339087302" />
+    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1575339087302">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1575293647961" />
-    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1575293647961">
+    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1575339087302" />
+    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1575339087302">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1575293647961" />
-    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1575293647961">
+    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1575339087302" />
+    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1575339087302">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1575293647961" />
-    <state x="270" y="54" key="SettingsEditor" timestamp="1575293415988">
+    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1575339087302" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1575357495076">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575293415988" />
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575357495076" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1575293675887">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1575293675887" />
     <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1575292163927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -144,6 +188,11 @@
           <line>39</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Anaconda3/envs/vision/Lib/site-packages/tensorflow_core/python/keras/backend.py</url>
+          <line>4571</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -155,6 +204,7 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tf2_GAN$image2image.coverage" NAME="image2image Coverage Results" MODIFIED="1575293417427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pix2pix" />
+    <SUITE FILE_PATH="coverage/tf2_GAN$image2image.coverage" NAME="image2image Coverage Results" MODIFIED="1575340915116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pix2pix" />
+    <SUITE FILE_PATH="coverage/tf2_GAN$test.coverage" NAME="test Coverage Results" MODIFIED="1575356224595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
